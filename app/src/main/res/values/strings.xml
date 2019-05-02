@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JMBG Validator</string>
+    <string name="jmbg">JMBG:</string>
+    <string name="provjera">Provjera</string>
+    <string name="dr_ava">Država:</string>
+    <string name="region">Region:</string>
+    <string name="pol">Pol:</string>
+    <string name="datum_ro_enja">Datum rođenja:</string>
+</resources>
