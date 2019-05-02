@@ -47,6 +47,11 @@ public class MainActivity extends AppCompatActivity {
                 }
                 if (greska != 1) {
 
+                    drzava1.setText("");
+                    region1.setText("");
+                    pol1.setText("");
+                    datum1.setText("");
+
 
                     Integer danRodjenjaINT = Integer.valueOf(jmbg.getText().toString().substring(0,
                             jmbg.length() - 11));
